@@ -97,7 +97,7 @@ Model Performance Metrics:
 
 ## 📫 Contact
 
-Project Maintainer: [Your Name]
+Project Maintainer: KANISHK S 
 GitHub: [@kanizmadix](https://github.com/kanizmadix)
 
 ## 📜 License
